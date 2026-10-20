@@ -34,3 +34,15 @@ In the block 2,i integrated the SHT31 and bmp280 environmental sensors onto a sh
 <img width="1382" height="787" alt="image" src="https://github.com/user-attachments/assets/81413a26-d400-4af6-b9be-cdf2f9b68a1c" />
 
 -------
+# date:20/10
+# time spent:1.25hr
+## description:
+after the particulate sensor integration,i moved straight into block 4 ,i placed and wired the connectors for the ssd1306 oled display, a spi based microsd card module for saving csv data, and a ds3231 real time clock complete with a cr2032 coin cell backup battery for persistent timestamps,i also integrated the user interface navigation buttons and designed a safe battery voltage monitoring circuitand by  using a a voltage divider and a stabilization capacitor connected to the esp32-s3 adc pin.now the schematic is done,i should check for erc and assign footprints.
+
+## images:
+<img width="958" height="447" alt="image" src="https://github.com/user-attachments/assets/41156f40-06f9-4c2e-b793-5a9006c92401" />
+<img width="952" height="510" alt="image" src="https://github.com/user-attachments/assets/22665c97-ab55-421d-8f1b-ec68f9421349" />
+<img width="1431" height="783" alt="image" src="https://github.com/user-attachments/assets/41c57862-493f-4a1e-a124-0d8971737fef" />
+
+
+-------
