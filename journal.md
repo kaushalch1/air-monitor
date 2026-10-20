@@ -46,3 +46,25 @@ after the particulate sensor integration,i moved straight into block 4 ,i placed
 
 
 -------
+# date:20/10
+# time spent:0.5hr
+## description:
+I started fixing all the drc errors there were 50+ errors and i had go through each one and then i fixed all the errors by placing pwr_flag and then i should assign footprints.
+
+## images:
+<img width="1617" height="845" alt="image" src="https://github.com/user-attachments/assets/3e99a5e2-3a05-4319-bbd3-f77990d01411" />
+<img width="1442" height="712" alt="image" src="https://github.com/user-attachments/assets/cb1fe550-cfd5-49f9-bedd-40e8f63c824e" />
+<img width="1807" height="836" alt="image" src="https://github.com/user-attachments/assets/482a9972-f711-4ee1-ac2c-3a0efe4f055f" />
+
+
+-------
+# date:20/10
+# time spent:0.5hr
+## description:
+i had searcched the internet and gathered footprints for all the parts and assigned them for each part and then added them in the pcb.
+
+## images:
+<img width="1662" height="886" alt="image" src="https://github.com/user-attachments/assets/a405edfb-4715-4529-bb34-cccf9a3281e6" />
+<img width="707" height="665" alt="image" src="https://github.com/user-attachments/assets/6633c007-820a-4129-a81f-8958d5d2e5a4" />
+
+-------
