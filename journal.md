@@ -22,3 +22,15 @@ i started the entire project from block 1 by placing the esp32-s3 controller and
 
 
 -------
+# date:20/10
+# time spent:1.25hr
+## description:
+In the block 2,i integrated the SHT31 and bmp280 environmental sensors onto a shared i2c bus connected to the esp32-s3 gpioO8 and gpioO9 pins, grounding the sht31 address pin for 0x44, and locking the bmp280 into i2c mode with address 0x76. and then going to block 3,i searched for a particulate sensor i had found many modules but none of these had an symbol in kicad , i tried importing it through a plugin but it didn't work so i successfully set up an 8 pin connector for the pms5003 particulate matter sensor, powering it via the regulated 5V rail and grounding it properly, and cross connecting its uart lines to the microcontroller serial pins.
+
+## images:
+<img width="1382" height="540" alt="image" src="https://github.com/user-attachments/assets/8d8a2d4b-122f-49d5-832b-22872de00438" />
+<img width="715" height="677" alt="image" src="https://github.com/user-attachments/assets/1b487646-d050-42b2-b97a-f0202eaa6a88" />
+<img width="1215" height="747" alt="image" src="https://github.com/user-attachments/assets/bda8ceb0-3037-4e2d-8bc7-0e83ae3dae7c" />
+<img width="1382" height="787" alt="image" src="https://github.com/user-attachments/assets/81413a26-d400-4af6-b9be-cdf2f9b68a1c" />
+
+-------
