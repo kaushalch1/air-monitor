@@ -113,10 +113,18 @@ i had completed the routing part of the pcb and also fixed all the erc errors ma
 # date:21/10
 # time spent:0.75hr
 ## description:
-i had started making the firmware of the project in the wowki simulator i gathered ll the libraries and started making the digram.json file for the project and and adding all sensors to it
+i had started making the firmware of the project in the wowki simulator i gathered all the libraries and started making the digram.json file for the project and and adding all sensors to it
 ## images:
 <img width="927" height="811" alt="image" src="https://github.com/user-attachments/assets/ee4a9200-91f0-4455-913e-6533a31e1a59" />
-
 <img width="955" height="850" alt="image" src="https://github.com/user-attachments/assets/35f67f3f-bcfc-43f3-bf93-947ae3d58ec4" />
+
+-------
+# date:21/10
+# time spent:1.75hr
+## description:
+i studied about how to use cpp in arduino projects and then with the help of ai ,i started learning the coding part of the project and then i had completed the coding part of the project
+## images:
+<img width="1911" height="886" alt="image" src="https://github.com/user-attachments/assets/58b4ee1d-0bb8-42fc-b142-ad024f4cf196" />
+<img width="916" height="867" alt="image" src="https://github.com/user-attachments/assets/1bf0d0ac-a5d7-4f02-8020-4bc25b9b8ad5" />
 
 -------
