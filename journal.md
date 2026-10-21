@@ -77,3 +77,36 @@ I had started doing the layout by arranging the antenas,usb,microsd card at the 
 <img width="1917" height="810" alt="image" src="https://github.com/user-attachments/assets/1438861b-ea01-4d6c-9806-3a6aafed4483" />
 
 -------
+# date:21/10
+# time spent:1.5hr
+## description:
+after arranging the layout i had started doing the routing , i had started routing the micro controllers and then connected the sd card in the nenxt i should connect all of them bby using the ground plate and fill it 
+## images:
+<img width="792" height="777" alt="image" src="https://github.com/user-attachments/assets/e1361c5b-bfed-43f4-bbd4-8bd0e2b4a476" />
+<img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/8e1d9831-84fc-4ef0-ae0a-b14f6fdbea64" />
+<img width="1192" height="792" alt="image" src="https://github.com/user-attachments/assets/118083ae-9c2d-4052-a0ab-1c2ab4e1f711" />
+
+
+-------
+# date:21/10
+# time spent:1.5hr
+## description:
+after arranging the layout i had started doing the routing , i had started routing the micro controllers and then connected the sd card in the nenxt i should connect all of them bby using the ground plate and fill it 
+## images:
+<img width="792" height="777" alt="image" src="https://github.com/user-attachments/assets/e1361c5b-bfed-43f4-bbd4-8bd0e2b4a476" />
+<img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/8e1d9831-84fc-4ef0-ae0a-b14f6fdbea64" />
+<img width="1192" height="792" alt="image" src="https://github.com/user-attachments/assets/118083ae-9c2d-4052-a0ab-1c2ab4e1f711" />
+
+
+-------
+# date:21/10
+# time spent:1.5hr
+## description:
+i had completed the routing part of the pcb and also fixed all the erc errors mainly the errors were regarding the unconnected items or the sd card footprint was wrong so i had updated it.
+## images:
+<img width="848" height="788" alt="image" src="https://github.com/user-attachments/assets/cd404779-bab1-4a77-8634-ab90af783ef3" />
+<img width="1052" height="791" alt="image" src="https://github.com/user-attachments/assets/fb582f8a-6257-49b2-b90d-0c2871bc8019" />
+<img width="1171" height="782" alt="image" src="https://github.com/user-attachments/assets/69621df0-0521-433f-860f-77ff373362c0" />
+
+-------
+
