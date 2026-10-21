@@ -110,3 +110,13 @@ i had completed the routing part of the pcb and also fixed all the erc errors ma
 
 -------
 
+# date:21/10
+# time spent:0.75hr
+## description:
+i had started making the firmware of the project in the wowki simulator i gathered ll the libraries and started making the digram.json file for the project and and adding all sensors to it
+## images:
+<img width="927" height="811" alt="image" src="https://github.com/user-attachments/assets/ee4a9200-91f0-4455-913e-6533a31e1a59" />
+
+<img width="955" height="850" alt="image" src="https://github.com/user-attachments/assets/35f67f3f-bcfc-43f3-bf93-947ae3d58ec4" />
+
+-------
