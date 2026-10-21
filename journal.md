@@ -128,3 +128,13 @@ i studied about how to use cpp in arduino projects and then with the help of ai 
 <img width="916" height="867" alt="image" src="https://github.com/user-attachments/assets/1bf0d0ac-a5d7-4f02-8020-4bc25b9b8ad5" />
 
 -------
+# date:21/10
+# time spent:0.5hr
+## description:
+i had added the bom files in the repo by checking in the lscs number and also i i had rendered the gerber files and the dril files and published them in the repo.
+## images:
+<img width="1902" height="640" alt="image" src="https://github.com/user-attachments/assets/0ae4fe20-7c22-4d13-987c-9e09a60804db" />
+![Uploading image.png…]()
+
+
+-------
