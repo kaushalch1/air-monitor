@@ -68,3 +68,12 @@ i had searcched the internet and gathered footprints for all the parts and assig
 <img width="707" height="665" alt="image" src="https://github.com/user-attachments/assets/6633c007-820a-4129-a81f-8958d5d2e5a4" />
 
 -------
+# date:21/10
+# time spent:0.5hr
+## description:
+I had started doing the layout by arranging the antenas,usb,microsd card at the edges and now i should route each of them/
+
+## images:
+<img width="1917" height="810" alt="image" src="https://github.com/user-attachments/assets/1438861b-ea01-4d6c-9806-3a6aafed4483" />
+
+-------
