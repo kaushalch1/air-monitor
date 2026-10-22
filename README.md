@@ -81,4 +81,6 @@ The CSV log is intended to contain fields such as:
 <img width="1132" height="796" alt="image" src="https://github.com/user-attachments/assets/6c2d3d72-e3c3-46b5-801b-355a0d9f41e2" />
 # pcb img:
 <img width="1171" height="782" alt="image" src="https://github.com/user-attachments/assets/bbb9d440-6bc1-4266-9c78-3080bf99bff3" />
+# 3d view:
+<img width="986" height="630" alt="image" src="https://github.com/user-attachments/assets/ee0b3d59-2c8a-4708-a806-034f5830e7a6" />
 
