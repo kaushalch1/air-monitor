@@ -86,5 +86,5 @@ The CSV log is intended to contain fields such as:
 # 3d model:
 <img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/fdaf11a3-a4f4-4061-b908-233ae6757868" />
 # assembly model:
-![Uploading image.png…]()
+<img width="1297" height="700" alt="image" src="https://github.com/user-attachments/assets/fe520005-5798-4fe3-b585-99d3a5675b8e" />
 
