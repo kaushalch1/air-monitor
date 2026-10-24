@@ -134,7 +134,16 @@ i studied about how to use cpp in arduino projects and then with the help of ai 
 i had added the bom files in the repo by checking in the lscs number and also i i had rendered the gerber files and the dril files and published them in the repo.
 ## images:
 <img width="1902" height="640" alt="image" src="https://github.com/user-attachments/assets/0ae4fe20-7c22-4d13-987c-9e09a60804db" />
-![Uploading image.png…]()
+
+
+-------
+# date:24/10
+# time spent:1hr
+## description:
+as reviewer asked me to make cad case ,i had made  the case for the model and then created an assembly model for the pcb and pusshed the files to the repo
+## images:
+<img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/bae7919f-d188-454c-8835-f9d5cdf17f04" />
+<img width="1297" height="700" alt="image" src="https://github.com/user-attachments/assets/ecdc4740-5a21-4fa6-9d1f-6b4c4bade911" />
 
 
 -------
