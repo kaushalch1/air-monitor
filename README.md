@@ -83,4 +83,8 @@ The CSV log is intended to contain fields such as:
 <img width="1171" height="782" alt="image" src="https://github.com/user-attachments/assets/bbb9d440-6bc1-4266-9c78-3080bf99bff3" />
 # 3d view:
 <img width="986" height="630" alt="image" src="https://github.com/user-attachments/assets/ee0b3d59-2c8a-4708-a806-034f5830e7a6" />
+# 3d model:
+<img width="1917" height="782" alt="image" src="https://github.com/user-attachments/assets/fdaf11a3-a4f4-4061-b908-233ae6757868" />
+# assembly model:
+![Uploading image.png…]()
 
